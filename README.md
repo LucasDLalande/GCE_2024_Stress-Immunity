@@ -15,8 +15,8 @@ Early-life glucocorticoids accelerate lymphocyte count senescence in roe deer\
 DOI: [10.1016/j.ygcen.2024.114595](https://doi.org/10.1016/j.ygcen.2024.114595)
 
 <sup>\*</sup> Corresponding authors:\
-[lalande.luke\@gmail.com](mailto:lalande.luke@gmail.com){.email}\
-[emmanuelle.gilotfromont\@vetagro-sup.fr](mailto:emmanuelle.gilotfromont@vetagro-sup.fr){.email}
+[lalande.luke\@gmail.com](mailto:lalande.luke@gmail.com)\
+[emmanuelle.gilotfromont\@vetagro-sup.fr](mailto:emmanuelle.gilotfromont@vetagro-sup.fr)
 
 ## Project description
 
@@ -104,4 +104,4 @@ CC BY 4.0
 
 For all queries :
 
-Lucas D. Lalande - [lalande.luke\@gmail.com](mailto:lalande.luke@gmail.com){.email}
+Lucas D. Lalande - [lalande.luke\@gmail.com](mailto:lalande.luke@gmail.com)
