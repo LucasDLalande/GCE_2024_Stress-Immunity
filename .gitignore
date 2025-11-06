@@ -2,3 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+dataset/
+manuscript/
+resources/
+_Exchange_reviewers_editors
+README.html
