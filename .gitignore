@@ -8,6 +8,11 @@ Thumbs.db
 .Ruserdata
 .Rbuildignore
 
+# Temporary files
+*.Rout
+*.log
+*.tmp
+
 # Scripts
 scripts/anonymisation_dataset.R
 
