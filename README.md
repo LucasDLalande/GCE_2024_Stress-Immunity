@@ -1,3 +1,9 @@
+---
+output:
+  html_document: default
+  pdf_document: default
+---
+
 # Early-life glucocorticoids accelerate lymphocyte count senescence in roe deer
 
 Lucas D. Lalande<sup>1\*</sup>, Gilles Bourgoin<sup>1,2</sup>, Jeffrey Carbillet<sup>3</sup>, Louise Cheynel<sup>4</sup>, François Debias<sup>1</sup>, Hubert Ferté<sup>5</sup>, Jean-Michel Gaillard<sup>1</sup>, Rebecca Garcia<sup>1</sup>, Jean-François Lemaître<sup>1</sup>, Rupert Palme<sup>6</sup>, Maryline Pellerin<sup>7</sup>, Carole Peroz<sup>1,2</sup>, Benjamin Rey<sup>1</sup>, Pauline Vuarin<sup>1</sup>, Emmanuelle Gilot-Fromont<sup>1,2\*</sup>
@@ -98,7 +104,12 @@ Lalande, Lucas D., Gilles Bourgoin, Jeffrey Carbillet, Louise Cheynel,François 
 
 ## Licence
 
-CC BY 4.0
+This repository contains the R code used to reproduce analyses from the article:
+
+> Lalande et al. **(2024)**. Early-life glucocorticoids accelerate lymphocyte count senescence in roe deer. *General and Comparative Endocrinology.*
+
+-   Code and scripts are released under the **CC BY 4.0** license.
+-   The data are available on Dryad (DOI: [10.17632/bfjxsnj5h8.2](https://doi.org/10.17632/bfjxsnj5h8.2)) and are governed by their own license.
 
 ## Contact:
 
