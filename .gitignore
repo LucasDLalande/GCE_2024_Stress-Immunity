@@ -1,11 +1,23 @@
-.Rproj.user
+# System files
+Thumbs.db
+
+# RStudio files
+.Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
-dataset/
-manuscript/
-resources/
-scripts/anonymisation_dataset.R
-_Exchange_reviewers_editors
-README.html
 .Rbuildignore
+
+# Scripts
+scripts/anonymisation_dataset.R
+
+# Dataset
+dataset/
+
+# Manuscripts
+manuscript/
+
+# Else
+resources/
+_Exchange_reviewers_editors/
+README.html
