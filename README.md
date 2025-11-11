@@ -1,9 +1,3 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
-
 # Early-life glucocorticoids accelerate lymphocyte count senescence in roe deer
 
 Lucas D. Lalande<sup>1\*</sup>, Gilles Bourgoin<sup>1,2</sup>, Jeffrey Carbillet<sup>3</sup>, Louise Cheynel<sup>4</sup>, François Debias<sup>1</sup>, Hubert Ferté<sup>5</sup>, Jean-Michel Gaillard<sup>1</sup>, Rebecca Garcia<sup>1</sup>, Jean-François Lemaître<sup>1</sup>, Rupert Palme<sup>6</sup>, Maryline Pellerin<sup>7</sup>, Carole Peroz<sup>1,2</sup>, Benjamin Rey<sup>1</sup>, Pauline Vuarin<sup>1</sup>, Emmanuelle Gilot-Fromont<sup>1,2\*</sup>
