@@ -7,3 +7,4 @@ manuscript/
 resources/
 _Exchange_reviewers_editors
 README.html
+.Rbuildignore
