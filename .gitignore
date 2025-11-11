@@ -5,6 +5,7 @@
 dataset/
 manuscript/
 resources/
+scripts/anonymisation_dataset.R
 _Exchange_reviewers_editors
 README.html
 .Rbuildignore
