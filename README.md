@@ -96,7 +96,7 @@ Lalande, Lucas D., Gilles Bourgoin, Jeffrey Carbillet, Louise Cheynel,François 
 
 Lalande, Lucas D., Gilles Bourgoin, Jeffrey Carbillet, Louise Cheynel,François Debias, Hubert Ferté, Jean-Michel Gaillard, et al. 2024.“Early-Life Glucocorticoids Accelerate Lymphocyte Count Senescencein Roe Deer.” Mendeley Data. <https://doi.org/10.17632/BFJXSNJ5H8.1>.
 
-## Licence
+## License
 
 This repository contains the R code used to reproduce analyses from the article:
 
