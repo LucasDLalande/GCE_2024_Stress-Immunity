@@ -1,0 +1,62 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the Mendeley Data deposit as following:"
+title: Early-life glucocorticoids accelerate lymphocyte count senescence in roe deer
+authors:
+  - family-names: Lalande
+    given-names: Lucas D.
+    orcid: 0000-0001-9319-8033
+  - family-names: Bourgoin
+    given-names: Gilles
+    orcid: 0000-0003-0993-0741
+  - family-names: Carbillet
+    given-names: Jeffrey
+    orcid: 0000-0001-6144-8800
+  - family-names: Cheynel
+    given-names: Louise
+    orcid: 0000-0003-2292-4143
+  - family-names: Debias
+    given-names: François
+  - family-names: Ferté
+    given-names: Hubert
+    orcid: 0000-0002-2153-0719
+  - family-names: Gaillard
+    given-names: Jean-Michel
+    orcid: 0000-0003-0174-8451
+  - family-names: Garcia
+    given-names: Rebecca
+  - family-names: Lemaître
+    given-names: Jean-François
+    orcid: 0000-0001-9898-2353
+  - family-names: Palme
+    given-names: Rupert
+    orcid: 0000-0001-9466-3662
+  - family-names: Pellerin
+    given-names: Maryline
+  - family-names: Peroz
+    given-names: Carole
+  - family-names: Rey
+    given-names: Benjamin
+  - family-names: Vuarin
+    given-names: Pauline
+    orcid: 00000-0002-0997-0228
+  - family-names: Gilot-Fromont
+    given-names: Emmanuelle
+    orcid: 0000-0003-0011-7519)
+
+# Informations sur le code GitHub + Zenodo
+repository-code: https://github.com/LucasDLalande/GCE_2024_Stress-Immunity
+url: https://data.mendeley.com/datasets/bfjxsnj5h8/2
+identifiers:
+  - type: doi
+  - value: 10.17632/bfjxsnj5h8.2
+version: v2
+date-released: 2025-11-05
+license: CC BY 4.0
+keywords:
+  - R code
+  - reproducible research
+  - ecophysiology
+  - immunosenescence
+  - roe deer
+
+

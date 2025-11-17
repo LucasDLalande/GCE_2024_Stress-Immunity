@@ -99,13 +99,13 @@ This repository contains the R code used to reproduce analyses from the article:
 
 ## Citation
 
+If using the dataset and/or these codes and scripts, please cite the Mendeley Data deposit :
+
+> Lalande, Lucas D., Gilles Bourgoin, Jeffrey Carbillet, Louise Cheynel,François Debias, Hubert Ferté, Jean-Michel Gaillard, et al. **(2025)**.“Early-Life Glucocorticoids Accelerate Lymphocyte Count Senescence in Roe Deer.” *Mendeley Data*, V2. <https://doi.org/10.17632/BFJXSNJ5H8.2>.
+
 To cite the article, please use :
 
-> Lalande, Lucas D., Gilles Bourgoin, Jeffrey Carbillet, Louise Cheynel,François Debias, Hubert Ferté, Jean-Michel Gaillard, et al. **(2024)**.“Early-Life Glucocorticoids Accelerate Lymphocyte Count Senescencein Roe Deer.” *General and Comparative Endocrinology* 357: 114595. <https://doi.org/10.1016/j.ygcen.2024.114595>.
-
-To cite the dataset and/or codes and scripts, please use :
-
-> Lalande, Lucas D., Gilles Bourgoin, Jeffrey Carbillet, Louise Cheynel,François Debias, Hubert Ferté, Jean-Michel Gaillard, et al. **(2025)**.“Early-Life Glucocorticoids Accelerate Lymphocyte Count Senescencein Roe Deer.” *Mendeley Data*, V2. <https://doi.org/10.17632/BFJXSNJ5H8.2>.
+> Lalande, Lucas D., Gilles Bourgoin, Jeffrey Carbillet, Louise Cheynel,François Debias, Hubert Ferté, Jean-Michel Gaillard, et al. **(2024)**.“Early-Life Glucocorticoids Accelerate Lymphocyte Count Senescence in Roe Deer.” *General and Comparative Endocrinology* 357: 114595. <https://doi.org/10.1016/j.ygcen.2024.114595>.
 
 ## Contact:
 
